@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const product = {
-        name: "Tennes",
+        name: "Sneak Peek",
         image: "amazing-product.jpg",
         description: "This amazing product will solve all your problems!",
         price: 50.99
